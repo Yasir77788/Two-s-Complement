@@ -1,6 +1,6 @@
 // Two's complement of an integer
 
-//  Output integer and its 1's complement in decimal and hexadecimal.
+//  Output integer and its 2's complement in decimal and hexadecimal.
 
 #include <iostream>
 #include <iomanip>
